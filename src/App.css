@@ -145,8 +145,6 @@ main {
 }
 
 .task .content .doneJob {
-	/* color: #02e528; */
-
 	text-decoration: line-through 3px red;
 }
 
